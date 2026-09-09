@@ -8,8 +8,8 @@ layout: post
 date: 2026-09-09 12:10:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
-image: "assets/img/blogs/2026-09-09-silksong.webp"
+com_id: 117242545637607826
+image: "assets/img/blogs/2026-09-08-silksong.webp"
 ---
 
 It's been a whole year now since *Hollow Knight: Silksong* finally released, and it has been a *delightful* journey.
@@ -42,7 +42,7 @@ Definitely not a game for everyone, even after all the updates that have balance
 
 <figure>
 <img src="/assets/img/blogs/2026-09-08-silksong.webp">
-<figcaption>Hollow Knight: Silksong, downloading on my Nintendo Switch, a year ago!<figcaption>
+<figcaption>Hollow Knight: Silksong, downloading on my Nintendo Switch, a year ago!</figcaption>
 </figure>
 
 This is day 32 of [#100DaysToOffload](https://100DaysToOffload.com)
