@@ -111,7 +111,7 @@ img.badge{
     image-rendering: -o-crisp-edges;
     image-rendering: -webkit-optimize-contrast;
     -ms-interpolation-mode: nearest-neighbor;
-    image-rendering: crisp-edges;
+    image-rendering: pixelated;
     height: 31px;
     opacity: 1;
     border-radius: 0px;
