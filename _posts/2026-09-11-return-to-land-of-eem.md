@@ -8,7 +8,7 @@ layout: post
 date: 2026-09-11 09:40:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117253323186750063
 ---
 
 Make sure to read the [first adventure of this journey!](/blog/my-first-ttrpg/).
