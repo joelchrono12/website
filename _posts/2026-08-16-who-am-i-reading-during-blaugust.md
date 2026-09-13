@@ -9,7 +9,12 @@ date: 2026-08-16 08:35:52 -0600
 host: fosstodon.org
 username: joel
 com_id: 117106316437368588
+mentions:
+ - title: "Blaugust 2026 Recap: Summary From a First Time Participant"
+   url: https://burgeonlab.com/blog/blaugust-2026-recap/
+   author: Naty
 ---
+
 
 There is a huge list of people participating for Blaugust and you can go to [Andreas' website](https://82mhz.net/posts/2026/08/an-opml-list-of-most-blogs-participating-in-blaugust/) if you want a full OPML file to simply import to your RSS Reader.
 

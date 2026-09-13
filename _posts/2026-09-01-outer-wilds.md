@@ -10,6 +10,10 @@ host: fosstodon.org
 username: joel
 com_id: 117199257711370170
 image: assets/img/blogs/2026-09-01-cover.webp
+mentions:
+  - author: The Tangent Space
+    title: Weekly digest 74
+    url: https://thetangent.space/2026/digest74/
 ---
 
 You have probably heard of this one, it is an award winning title that came out around 2019 and has been making the rounds as one of the best videogames of all time. I had heard of it when it came out, often confused with *Outer Worlds* which came out in the same year, but other than it being about exploring space, I didn't know much about it. Last year, when I beat [1000xRESIST](/blog/1000xresist/)---another incredible game you should definitely play---my friend [Jeremy](https://moddedbear.com) kept pushing me to try this one next. I completed like six more games before I finally gave it a go early this year.

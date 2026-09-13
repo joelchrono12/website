@@ -9,6 +9,10 @@ date: 2026-06-24 15:10:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 116807189879063639
+mentions:
+ - title: "Weeknote 2026-W28: MIA, IndieWeb Events & Small Web Links"
+   url: https://burgeonlab.com/weeknotes/2026/w28/
+   author: Naty
 ---
 
 It's weird when this happens but some months are just full of things that feel like tasks rather than something I wanted to do. All of June has been full of nothing but talking about things that happened, physical objects, events, notes, reviews, and rather tangible shenanigans, other than my bike rides, those are still fun.

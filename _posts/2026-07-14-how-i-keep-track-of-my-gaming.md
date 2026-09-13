@@ -9,6 +9,10 @@ date: 2026-07-14 22:01:12 -0600
 host: fosstodon.org
 username: joel
 com_id: 116922148956941799
+mentions:
+ - url: https://syls.blog/weekly-musings-1-week-of-july-12th/
+   author: Syl
+   title: "Weekly Musings #1 - Week of July 12th"
 ---
 
 Every weeknote and monthly summary, I list all the videogames I played. There are a few things that I do to help myself keep track of it all. Some tools I've mentioned here and there, but never all in a single post.

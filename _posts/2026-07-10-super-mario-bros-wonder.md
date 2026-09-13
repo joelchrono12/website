@@ -9,6 +9,10 @@ date: 2026-07-10 09:00:00 -0600
 host: fosstodon.org
 username: joel
 com_id: idcomments
+mentions:
+ - title: Week Notes - w28
+   author: Clayton Errington
+   url: https://claytonerrington.com/blog/2026-w28
 ---
 
 *This is a review for a game I finished in [March 2025](/blog/march-2025-summary/). I just felt compelled to write about it now, I guess.*

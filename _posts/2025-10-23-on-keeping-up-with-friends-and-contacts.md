@@ -9,6 +9,10 @@ date: 2025-10-23 21:05:47 -0600
 host: fosstodon.org
 username: joel
 com_id: 115427385810097367
+mentions:
+ - title: Life Lately 001
+   author: Jedda
+   url: https://notes.jeddacp.com/life-lately-001/
 ---
 
 During August [Jedda wrote about making friends as an adult](https://notes.jeddacp.com/on-making-friends-as-an-adult/), which sparked a lot of conversations from many bloggers who shared their thoughts on the matter. Blaugust was in full swing, so there was a lot of interactions and perspectives shared---just look at all the Community Echoes!

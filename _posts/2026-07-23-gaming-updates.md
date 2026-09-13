@@ -9,6 +9,11 @@ date: 2026-07-23 15:40:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 116971578948967885
+mentions:
+ - author: Syl
+   title: Gaming Habits in 2026
+   url: https://syls.blog/gaming-habits-in-2026/
+ 
 ---
 
 Decided to write an update regarding everything gaming related in my life, as of now in Summer of 2026! What games have I played? What games have I purchased? What games have I beaten? Everything you may want to know about my gaming habits as of now!

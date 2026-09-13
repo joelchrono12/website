@@ -9,6 +9,13 @@ date: 2026-08-07 12:00:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 117055566973168548
+mentions:
+ - title: "RE: about books and their translations"
+   author: Marisabel
+   url: https://marisabel.nl/public/blog/RE_about_books_and_their_translations
+ - title: "re: About books and their translations (My Rule for Reading Translated Books)"
+   author: Cesar Aguirre
+   url: https://canro91.github.io/2026/08/10/Translations/
 ---
 
 I realize I have spent a lot of my time writing about videogames here, and not focusing much on most of my other hobbies. I guess I just want to ramble about something different today, so why not?

@@ -9,6 +9,10 @@ date: 2026-08-11 12:50:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 117078428474845872
+mentions:
+  - url: https://noisydeadlines.net/week-notes-aug-18-to-sep-07-2026?pk_campaign=rss-feed
+    title: Week Notes Aug 18 to Sep 07 2026
+    author: Noisy Deadlines
 ---
 
 So, The Expanse is over, at last, and I will probably write a different post talking about the whole series and my thoughts overall. For now, these are only my thoughts on the last book, let's get to them, after the summary!

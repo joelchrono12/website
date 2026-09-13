@@ -9,6 +9,10 @@ date: 2026-07-07 15:25:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 116880830558317275
+mentions:
+ - title: On form factors
+   author: Rubenerd
+   url: https://www.rubenerd.au/on-form-factors/
 ---
 
 Josh, a fellow member of the TWG server, wrote an awesome piece about [the form factor](https://espressotonic.beehiiv.com/p/on-form-factor) of the devices and stuff he carries and how that affects the way he uses them! Since we are celebrating [July Reply](https://robertbirming.com/julyreply/), this post seemed like the perfect way for me to reply to!.

@@ -9,6 +9,10 @@ date: 2026-07-22 09:45:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 116964418633438211
+mentions:
+ - url: https://burgeonlab.com/weeknotes/2026/w30/
+   author: Naty
+   title: "Weeknote 2026-W30: Driving, Discourse & Junk Journaling"
 ---
 
 Well, here I go again. I wrote 100 posts in a year, in fact, a bit more than that, with a couple short game reviews I decided not to count separately, and one post I didn't promote using the hashtag on my socials.
