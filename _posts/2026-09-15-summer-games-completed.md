@@ -8,7 +8,7 @@ layout: post
 date: 2026-09-15 12:30:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117276526303242739
 image: "assets/img/blogs/2026-09-15-summer-games-og.webp"
 ---
 
@@ -55,7 +55,7 @@ I made a neat collage of the art of all the completed games, APPRECIATE IT!
 
 ![Collage with artwork of the completed games](/assets/img/blogs/2026-09-15-summer-games.webp)
 
-And here are some extra thoughts of you want---most of them have reviews you can check out.
+And here are some extra thoughts if you want---most of them have reviews you can check out.
 
 ### [Hades](/blog/hades/)
 
