@@ -8,7 +8,7 @@ layout: post
 date: 2026-09-15 17:40:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117277705867528500
 ---
 
 Scrolling through the timeline, these are only a few of the things I've seen today, people on different perspectives and paths, perhaps someone...
