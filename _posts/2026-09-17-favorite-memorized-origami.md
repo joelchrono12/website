@@ -2,13 +2,13 @@
 title: Favorite origami I've memorized
 header: Favorite origami I've memorized
 description: For once, I am writing about my oldest hobby for a bit, sharing what are my favourite models to fold by memory!
-tags: internet thoughts ramble
+tags: art origami hobbies
 permalink: /blog/favorite-memorized-origami/
 layout: post
 date: 2026-09-17 13:10:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117288024578515017
 image: "assets/img/blogs/2026-09-17-banner.webp"
 ---
 
