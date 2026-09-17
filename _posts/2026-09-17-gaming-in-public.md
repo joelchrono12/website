@@ -8,7 +8,7 @@ layout: post
 date: 2026-09-17 17:00:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117288946100776212
 image: "assets/img/blogs/2026-09-17-psp.webp"
 ---
 
@@ -36,7 +36,7 @@ I continue playing, defeating some of the toughest enemies in the game, teleport
 
 And you know what? Nobody cared that much, and I don't care about what they say either!
 
-Looking through the shirts in the aisles, I saw a couple of cool shirts, one of them had design with a retro-looking NES controller, even my dad pointed it out it was there, but nah, wearing that in public would be way too embarrassing for me ;)
+Looking through the shirts in the aisles, I saw a couple with cool graphics, one of them had design of a retro-looking NES controller, even my dad pointed it out it was there, but nah, wearing that in public would be way too embarrassing for me ;)
 
 <figure>
 <img src="/assets/img/blogs/2026-09-17-psp.webp">
