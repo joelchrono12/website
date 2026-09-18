@@ -6,9 +6,11 @@ tags: internet community
 permalink: /blog/who-is-my-pixel-neighbor/
 layout: post
 date: 2026-09-18 09:25:00 -0600
+updated: 2026-09-18 10:00:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 117292800028021721
+image: assets/img/blogs/2026-09-18-pxlarea.webp
 ---
 
 A couple weeks ago I got an email from a guy named Oleh, mentioning that they added me to a new website/project called [Pixel Area](https://pxlarea.com), it is a 100x100 field of pixels, each of which can link to the blog or personal website of whoever claims it first.
