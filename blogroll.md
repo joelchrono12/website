@@ -22,7 +22,6 @@ __Last updated: August 17th,2025__
 
 These blogs and personal websites have cool buttons, so I added them. Send me your button and I'll add it too!
 
-
 {% include badges_blogroll.html %}
 
 Feel free to add one of my buttons to your site (do not [hotlink](https://simple.wikipedia.org/wiki/Hotlinking) them though).
@@ -32,8 +31,6 @@ Feel free to add one of my buttons to your site (do not [hotlink](https://simple
 <li><a href="{{ site.url }}" target="_blank"><img src="/assets/img/badges/joelchronopfp.png" class="badge" alt="joelchrono's blog" /></a></li>
 </ul>
 </article>
-
-
 </article>
 
 ## My blogroll
@@ -51,4 +48,3 @@ Feel free to add one of my buttons to your site (do not [hotlink](https://simple
 </article>
 {% endfor %}
 </div>
-
