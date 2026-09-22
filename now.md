@@ -16,7 +16,7 @@ permalink: /now/
 - _The House on the Borderland_ by William Hope Hodgson
 - _Blame!_ by Tsutomu Nihei, started September 17, 2026
 - _Centuria_ by Tohru Kuramori, started July 23, 2026
-- _Smoking Behind the Supermarket with You_ by Junushi, started April 26, 2026 (Manga)
+- _Smoking Behind the Supermarket with You_ by Junushi, started April 26, 2026
 
 ## What I'm watching
 
@@ -46,6 +46,7 @@ permalink: /now/
 - Cleaning up and organizing my bedroom
 - Reading more often
 - Returning to the gym at some point, or cancel my subscription
+- Creating an archive for my now pages
 - Slowly improving my website design
 
 Inspired by [an idea from Derek Sivers](https://nownownow.com/about).
