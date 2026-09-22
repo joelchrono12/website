@@ -43,3 +43,6 @@
 - text: "Pixel Area"
   url: "https://pxlarea.com/x85y10"
   src: "/assets/img/badges/pixel_area.webp"
+- text: "Made by a human"
+  url: "/blog/unpolished-human-websites/"
+  src: "/assets/img/badges/made_by_a_human.webp"

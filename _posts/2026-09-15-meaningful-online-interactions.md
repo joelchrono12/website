@@ -9,6 +9,13 @@ date: 2026-09-15 17:40:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 117277705867528500
+mentions:
+  - author: Elena
+    title: "Weeknotes - W38/2026 (No.4)"
+    url: https://theresmiling.eu/blog/2026/09/weeknotes-2026-38.html
+  - author: Thomas Rigby
+    title: "Weeknotes: 2026-W38"
+    url: https://thomasrigby.com/posts/2026-w38/
 ---
 
 Scrolling through the timeline, these are only a few of the things I've seen today, people on different perspectives and paths, perhaps someone...

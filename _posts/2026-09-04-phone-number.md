@@ -9,6 +9,10 @@ date: 2026-09-04 12:00:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 117214117599105797
+mentions:
+ - title: Week Notes - w36
+   author: Clayton Errington
+   url: https://claytonerrington.com/blog/2026-w36/?utm_source=rss
 ---
 
 Don't worry, I can connect to Wi-Fi networks, I just lost mobile data access and phone calls with my current SIM chip.

@@ -9,6 +9,10 @@ date: 2026-09-20 13:25:58 -0600
 host: fosstodon.org
 username: joel
 com_id: 117305120897172042
+mentions:
+ - url: https://imperfect.bearblog.dev/namedrops-from-fans/
+   title: namedrops from fans
+   author: Imperfect
 ---
 
 I don't usually check analytics on my website, but the hosting I use on Vercel does provide the ability to check referrals, and I have to admit, every once in a while I enjoy to see those!
