@@ -6,6 +6,7 @@ tags: art origami hobbies
 permalink: /blog/favorite-memorized-origami/
 layout: post
 date: 2026-09-17 13:10:00 -0600
+updated: 2026-09-23 05:50:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 117288024578515017
@@ -34,7 +35,7 @@ And because there are so many options, I'm not going to share just one favorite,
 
 When it comes to orgami made with dollar bills, few models get close to this one. This is such a simple design that only takes a few steps to fold, and the last result is extremely pretty and instantly recognizable.
 
-The only caveat for this design, in my opinion, is the way the camera lens is kept in shape. It is just very reliable, and will often slowly unfold, unless you use a clip or something to keep it together. Making the model with a bigger paper helps fix this though, although it looks less impressive than using an actual bill-sized sheet.
+The only caveat for this design, in my opinion, is the way the camera lens is kept in shape. It is just very unreliable, and will often slowly unfold, unless you use a clip or something to keep it together. Making the model with a bigger paper helps fix this though, although it looks less impressive than using an actual bill-sized sheet.
 
 Diagram found at *Dollar Origami* by Won Park
 
