@@ -6,8 +6,10 @@ https://benjaminhollon.com/feed/
 https://blueberrylemonade.pika.page/posts_feed
 https://bobbyhiltz.com/atom.xml
 https://brainbaking.com/index.xml
+https://brandons-journal.com/feed.atom
 https://btxx.org/index.rss
 https://cassie.ink/index.xml
+https://doserver.top/feed.xml
 https://chriswiegman.com/feed
 https://claytonerrington.com/feed.xml
 https://d.moonfire.us/atom.xml
