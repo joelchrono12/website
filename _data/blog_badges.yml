@@ -31,9 +31,6 @@
 - text: Foreverliketh.is
   url: https://foreverliketh.is
   src: /assets/img/badges/foreverliketh.is.png
-#- text: ~sfr
-  #url: https://cronut.cafe/~sfr
-  #src: /assets/img/badges/ralsei.gif
 - text: Mew151
   src: /assets/img/badges/mew151_button.gif
   url: https://mew151.net
@@ -43,4 +40,6 @@
 - text: njms
   src: /assets/img/badges/njms.png
   url: https://njms.ca/
-  
+- text: Noisy Deadlines
+  url: https://noisydeadlines.com
+  src: /assets/img/badges/noisydeadlines.png
