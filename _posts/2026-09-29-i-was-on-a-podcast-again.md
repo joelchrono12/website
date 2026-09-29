@@ -6,10 +6,11 @@ tags: internet community
 permalink: /blog/i-was-on-a-podcast-again/
 layout: post
 date: 2026-09-29 12:20:00 -0600
+updated: 2026-09-29 13:30:00 -0600
 host: fosstodon.org
 username: joel
 image: "assets/img/blogs/2026-09-29-podcast.webp"
-com_id: idcomments
+com_id: 117355725575962228
 ---
 
 Once again I am happy to share with you all the secret that I mentioned [a couple weeknotes ago!](/blog/2026-w37/) I was in yet another podcast! This time I was a guest in James' wonderful show:
