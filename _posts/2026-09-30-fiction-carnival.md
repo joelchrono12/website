@@ -1,5 +1,5 @@
 ---
-title: IndieWeb Fiction Carnival September 2026- Moonlight
+title: IndieWeb Fiction Carnival September 2026 - Moonlight
 header: IndieWeb Fiction Carnival September 2026 - Moonlight
 description: "My submission (late) for September's IndieWeb Fiction Carnival: We are always three"
 tags: internet fiction short
@@ -8,7 +8,7 @@ layout: post
 date: 2026-09-30 22:55:00 -0600
 host: fosstodon.org
 username: "joel"
-com_id: idcomments
+com_id: 117366495373879933
 ---
 
 Here is my late entry for the IndieWeb Fiction Carnival for September! 
