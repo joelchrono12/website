@@ -6,6 +6,7 @@ tags: internet fiction short
 permalink: /blog/iwfc-moonlight/
 layout: post
 date: 2026-09-30 22:55:00 -0600
+updated: 2026-10-01 20:19:00 -0600
 host: fosstodon.org
 username: "joel"
 com_id: 117366495373879933
@@ -17,21 +18,21 @@ The theme was: **Moonlight**, hosted by [James.](https://jamesg.blog/2026/09/01/
 
 ## We are always three
 
-I was told about the astral bodies in the sky, of how the darkness used to be full of dots of light. I don't understand the stories, there is no sky outside.
+My Mom told me about the big circles in the sky, of how darkness used to be full of dots of light. I don't understand the stories. There is no sky outside.
 
-We are going to a new sun now, Dad says this one is younger, but still older than me! The other one was the moon, a big rock that shone at night, how can it be dark when there's a light above?
+We are going to a new sun now, Dad says this one is younger---but still older than me! The other one was the moon---a big rock that shone in the night sky---how can it be dark when there's a light above?
 
-We used to be able to find all sorts of things in the feeds, like shows and cartoons, but storage is needed for new planet stuff, and some of the archives had to be taken out... Mom saved a couple of them locally though.
+We used to be able to find all sorts of things in the feeds, like shows and cartoons, but storage is needed for new planet stuff, and some of the archives had to be taken out. Mom saved a couple of them on our terminal, though.
 
-Some were shows by magicians, my favorite ones. They could multiply, or change, or make objects dissapear! With a wave of the hand or under a cloth, Dad told me it's "sleight of hand", I can't figure it out.
+Some were shows by magicians, my favorite ones. They could multiply, or change, or make objects dissapear! With a wave of the hand or under a cloth---Dad told me it's "sleight of hand"---I can't figure it out.
 
 The man was wearing some weird suit, in the middle of a table, the expectator had colorful clothes and her hair was long, he was a little bald. We cut ours to keep the place tidy. Maybe hygiene wasn't too important back then?
 
 He took three little pieces of bread, put two of them inside a tea cup, flicked the last one towards the audience, and started to talk about an ancient poet.
 
-The man let the cup spill on the mat, the three balls of bread rolled out from it...
+The man let the cup spill on the mat---the three balls of bread rolled out from it.
 
-He shared a poem while he did it again...
+He shared a poem while he did it all again:
 
 > Once the party is over,   
 > the guests have to leave.   
@@ -46,7 +47,6 @@ Once our trip is over, us passengers have to leave, I look forward for that day.
 
 I will have a new home, friends to play with, a new moon above me, and a shadow to follow me!
 
-
 ## Afterword
 
 Well, I rarely do fiction! This is definitely a first for the blog, but I wanted to try my hand at it. Where does this come from? Why do I write about it? Feel free to share your thoughts before reading this, or afterwards too, hehe.
@@ -59,7 +59,7 @@ Anyway, I also wanted to write from the perspective of a kid with an untainted s
 
 And of course, the magic. This talks about a real magician doing a real performance, the wonderful René Lavand is one of my main inspirations in close-up magic. His presentation was absolutely unique. Poetry, classical music, and an elegant presence at the table---performing all of his illusions with a single hand.
 
-The effect can be seen [on YouTube](https://youtu.be/eL7VKEkpXhg) but the language is in Spanish. I did my best to translate the main lines of the here, it still doesn't compare to the original which is a bit longer.
+The effect can be seen [on YouTube](https://youtu.be/eL7VKEkpXhg) but the language is in Spanish. I did my best to translate the main lines of the poem here, it still doesn't compare to the original which is a bit longer.
 
 I hope you enjoyed this little piece of fiction, perhaps I'll try some more.
 
