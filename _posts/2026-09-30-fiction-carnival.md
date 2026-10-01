@@ -55,7 +55,7 @@ Well, first, I wanted to try doing this for the sake of it. I enjoyed the theme 
 
 At first I thought about writing from the point of the view of a certain character from [Outer Wilds](/blog/outer-wilds/), but I won't share much spoilers about that game or the context of all that. Play it yourself, please.
 
-Anyway, I also wanted to write from the perspective of a kid with an untainted sense of wonder. I had read some fiction like *Strange Dogs* by James S.A. Corey, and of course, *The Indomitable Captain Holli* by . Completely different stories, but both from the perspective of kids who are yet to understand the world. I thought I could try it out. My inner child is still alive and kicking but maybe I used a couple terms that were too much? Like, "storage"?
+Anyway, I also wanted to write from the perspective of a kid with an untainted sense of wonder. I had read some fiction like *Strange Dogs* by James S.A. Corey, and of course, *The Indomitable Captain Holli* by Rich Larson. Completely different stories, but both from the perspective of kids who are yet to understand the world. I thought I could try it out. My inner child is still alive and kicking but maybe I used a couple terms that were too much? Like, "storage"?
 
 And of course, the magic. This talks about a real magician doing a real performance, the wonderful René Lavand is one of my main inspirations in close-up magic. His presentation was absolutely unique. Poetry, classical music, and an elegant presence at the table---performing all of his illusions with a single hand.
 
