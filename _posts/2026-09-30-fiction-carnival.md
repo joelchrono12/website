@@ -25,7 +25,7 @@ We used to be able to find all sorts of things in the feeds, like shows and cart
 
 Some were shows by magicians, my favorite ones. They could multiply, or change, or make objects dissapear! With a wave of the hand or under a cloth, Dad told me it's "sleight of hand", I can't figure it out.
 
-The man was wearing some weird suit, in the middle of a table, the expectator had colorful clothes and her hair was long, he was a little bald. We cut ours to shop keep the place tidy. Maybe hygiene wasn't too important back then?
+The man was wearing some weird suit, in the middle of a table, the expectator had colorful clothes and her hair was long, he was a little bald. We cut ours to keep the place tidy. Maybe hygiene wasn't too important back then?
 
 He took three little pieces of bread, put two of them inside a tea cup, flicked the last one towards the audience, and started to talk about an ancient poet.
 
