@@ -30,7 +30,7 @@ The DLC for the masterpiece that is [Outer Wilds](/blog/outer-wilds/) seems to b
 
 I would ideally play this on my TV at home, but I'm afraid I'll have to compromise with handheld mode as my parents watch shows during the evening once I'm back from work.
  
-## Castlevania: Symphony of the Night
+### Castlevania: Symphony of the Night
 
 Completion time: 12 hours.
 
