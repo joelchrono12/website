@@ -8,7 +8,7 @@ layout: post
 date: 2026-10-08 11:45:00 -0600
 host: fosstodon.org
 username: "joel"
-com_id: idcomments
+com_id: 117406550186059981
 image: "assets/img/blogs/2026-10-08-banner.webp"
 ---
 
@@ -95,6 +95,6 @@ If you have any thoughts about the books or games I bring up here, you are more 
 <figcaption>All the cover art of each work mentioned on this blogpost!</figcaption>
 </figure>
 
-This is day 45 of [#100DaysToOffload](https://100DaysToOffload.com)
+This is day 48 of [#100DaysToOffload](https://100DaysToOffload.com)
 
 
