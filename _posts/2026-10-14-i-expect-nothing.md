@@ -8,7 +8,7 @@ layout: post
 date: 2026-10-14 12:20:00 -0600
 host: fosstodon.org
 username: "joel"
-com_id: idcomments
+com_id: 117440689263622909
 ---
 
 And somehow, if I get to trying it, I am often able to enjoy it. A side of me thinks my taste is pretty good because of this. I've never finished a book or videogame thinking that it wasn't worth it.
