@@ -8,7 +8,7 @@ layout: post
 date: 2026-10-14 17:00:00 -0600
 host: fosstodon.org
 username: "joel"
-com_id: idcomments
+com_id: 117441796239658748
 ---
 
 As a somewhat popular blogger, plenty of random stuff is sent to me via email from people that want me to try stuff out.
