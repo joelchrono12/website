@@ -23,11 +23,11 @@ The other day my mom told me how I always seem to do the same thing after return
 
 Sometimes I feel like she is just nitpicking, I fulfill everything I'm asked to do, I do try to clean up after all, and the rest of the house has clean floors and dishes done.
 
-However my sister's when visiting, did notice the same. I'd get grumpy whenever they or my parents entered my room because I would be expecting to get lectured or distracted or asked to do something. Perhaps that's a valid response but at the same time, an assumption that would end up with both sides annoyed.
+However my siblings when visiting, did notice the same. I'd get grumpy whenever they or my parents entered my room because I would be expecting to get lectured or distracted or asked to do something. Perhaps that's a valid response but at the same time, an assumption that would end up with both sides annoyed.
 
 I should do more to improve on my fitness, I should stop buying snacks daily. I should be less forgetful. It's all small stuff to me. But all together it may be a little bit of a bad sign.
 
-I am genuinely happy though, I enjoy myself in everything I do. I love the games and the books I play, I am entertained by the movies I watch, I love going to church and being in community with others on Sundays and whatever extra times that happens. But I tend to let little things build up, and once it gets messy I'm too lazy to change it.
+I am genuinely happy though, I enjoy myself in everything I do. I love the games I play[^1] and the books I read, I am entertained by the movies I watch, I love going to church and being in community with others on Sundays and whatever extra times that happens. But I tend to let little things build up, and once it gets messy I'm too lazy to change it.
 
 All my mom truly asks for me is to take care of myself and take some steps outside of my comfort zone. She wants me to learn something new and broaden my horizons. Maybe continue going to the gym or at least exercise at home.
 
@@ -49,6 +49,6 @@ In a couple weeks I'll do something kinda drastic. I'll take a trip to visit my 
 
 Advice is appreciated, though remember these are incomplete thoughts. It's a slice of my life at the moment. I love my parents, I love where I am, I am worried about the future, and about change. However all things considered, I trust that things will work together for good.
 
-[1]: Or at the moment, I am extremely stressed out during my playthrough of *Outer Wilds Echoes of the Eye.*
+[1]: Okay maybe I don't love being extremely stressed out during my playthrough of *Outer Wilds Echoes of the Eye* but it's still fun.
 
 This is day 53 of [#100DaysToOffload](https://100DaysToOffload.com)
