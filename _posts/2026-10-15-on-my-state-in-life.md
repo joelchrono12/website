@@ -8,7 +8,7 @@ layout: post
 date: 2026-10-15 12:40:00 -0600
 host: fosstodon.org
 username: "joel"
-com_id: idcomments
+com_id: 117446406307919241
 ---
 
 I have come to the realization that I could keep going with life as it is right now and be just fine. I have a decent job, I get to save a lot living with my parents. I get to play games and read and have most basic needs fulfilled...
@@ -47,8 +47,8 @@ But I want to do better. I don't mind the cycle and the comfort, but I want to f
 
 In a couple weeks I'll do something kinda drastic. I'll take a trip to visit my sister and we'll go to a concert. A different city, staying with some friends and all, but with a lot of free time on my hand. Will I do something with it? Catch up with people in the area, go sight-seeing some touristy places, or what? I hope the change in scenery and routine helps a bit.
 
-Advice is appreciated, but remember these are incomplete thoughts. It's a slice of my life at the moment. I love my parents, I love where I am, I am worried about the future, and about change, but. All in all, I trust that things will work together for good.
+Advice is appreciated, though remember these are incomplete thoughts. It's a slice of my life at the moment. I love my parents, I love where I am, I am worried about the future, and about change. However all things considered, I trust that things will work together for good.
 
-[^1]: Or at the moment, I am extremely stressed out during my playthrough of *Outer Wilds Echoes of the Eye.*
+[1]: Or at the moment, I am extremely stressed out during my playthrough of *Outer Wilds Echoes of the Eye.*
 
 This is day 53 of [#100DaysToOffload](https://100DaysToOffload.com)
