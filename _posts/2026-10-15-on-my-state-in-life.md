@@ -49,6 +49,6 @@ In a couple weeks I'll do something kinda drastic. I'll take a trip to visit my 
 
 Advice is appreciated, though remember these are incomplete thoughts. It's a slice of my life at the moment. I love my parents, I love where I am, I am worried about the future, and about change. However all things considered, I trust that things will work together for good.
 
-[1]: Okay maybe I don't love being extremely stressed out during my playthrough of *Outer Wilds Echoes of the Eye* but it's still fun.
+[^1]: Okay maybe I don't love being extremely stressed out during my playthrough of *Outer Wilds Echoes of the Eye* but it's still fun.
 
 This is day 53 of [#100DaysToOffload](https://100DaysToOffload.com)
