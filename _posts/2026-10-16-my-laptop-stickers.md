@@ -9,10 +9,10 @@ date: 2026-10-16 11:00:00 -0600
 host: fosstodon.org
 username: "joel"
 image: "assets/img/blogs/2026-10-16-laptop-stickers.webp"
-com_id: idcomments
+com_id: 117451760569319490
 ---
 
-I saw Wouter going mad for stickers to put on his laptop and I decided I would do the same!
+I saw Wouter going mad for stickers to put on [his laptop](https://brainbaking.com/post/2026/10/what-is-a-man-laptop-stickers-part-deux/) and I decided I would do the same!
 
 I have had like a couple dozen loose stickers that I got from AliExpress ages ago, some were gifts and some were included in videogames I've gotten, so I put a mix of eerything here and well, I'm pretty happy with how it turned out!
 
