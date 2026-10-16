@@ -33,7 +33,7 @@ Two of them came from the *UFO 50* Collectors Edition: A Pig Magician holding a 
 
 There are also two that were given to me by the AntennaPod team: Their mascot--a microphone with an AntennaPod shirt---and their app logo!
 
-The stickering of my laptop is still ongoing. I would love to get stickers for some projects and logos I've made myself---such as the one for [Clew](https://clew.se) or [Bookrastinating](https://bookrastinating.com)---and for other videogames like *Outer Wilds*, *Metroid* and of course, *Chrono Trigger*, or hobbies such as Speeding and Fountain Pens.
+The stickering of my laptop is still ongoing. I would love to get stickers for some projects and logos I've made myself---such as the one for [Clew](https://clew.se) or [Bookrastinating](https://bookrastinating.com)---and for other videogames like *Outer Wilds*, *Metroid* and of course, *Chrono Trigger*, or hobbies such as SpeedCubing and Fountain Pens.
 
 The shipping from Redbubble to my country is rather expensive, so I'm looking for local alternatives to see how much it would cost me, or maybe I'll venture with a huge sticker pack from AliExpress again.
 
