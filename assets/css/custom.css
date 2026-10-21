@@ -9,11 +9,11 @@
     /*--mono-font: "Ubuntu Mono","mononoki","IBM Plex Mono","Roboto Mono","Fira Code","Overpass Mono", Monaco,"Droid Sans Mono",monospace;*/
     --mono-font: "IBM Plex Mono", monospace;
     /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
-    --base-fontsize: 1.15rem;
+    --base-fontsize: 1.10rem;
     /* Major third scale progression - see https://type-scale.com/ */
-    --header-scale: 1.2;
+    --header-scale: 1.1;
     /* Line height is set to the "Golden ratio" for optimal legibility */
-    --line-height: 1.55;
+    --line-height: 1.35;
     /*This is my dark themed color scheme*/
     --accent-bg: #f0f0f0;
     --accent-light: #7aa2f7;
@@ -81,7 +81,7 @@ body {
 }
 
 body * {
-	border-radius: 12px;
+	/*border-radius: 12px;*/
 }
 
 p.description {
@@ -513,7 +513,6 @@ img.logo {
 footer {
 	padding: 1rem 0;
 	text-align: center;
-	font-size: small;
 	background-color: var(--code-bg);
 	border-top: var(--border);
 }

@@ -72,9 +72,7 @@ I'm really into music, this text will be overwritten by the latest song I listen
 {% endif %}
 </h3>
     <div class="blog-description">{{ post.description | strip_html | strip_newlines }}</div>
-    <span class="post-date">
-      <time datetime="{{ post.date }}">{{ post.date | date: "%B %d, %Y" }}</time>
-    </span>
+    <span class="post-date"><time datetime="{{ post.date }}">{{ post.date | date: "%B %d, %Y" }}</time></span>
   </article>
   {% endif %}
 {% endfor %}
