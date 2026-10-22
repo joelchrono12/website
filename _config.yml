@@ -30,6 +30,8 @@ collections:
     permalink: /blog/:year-:month-:day-:title/
   origami:
     output: true
+  books:
+    output: true
   games:
     output: true
 
