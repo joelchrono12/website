@@ -1,0 +1,169 @@
+@import url("/assets/css/syntax.css");
+
+*{box-sizing:border-box;}
+
+body {
+  background: #f2f2f2;
+  font-family: system-ui, sans-serif;
+  line-height: 1.33;
+  margin: 0 auto;
+  max-width: 680px;
+  padding: 0 10px;
+  width: 100%;
+}
+
+header nav ul {
+    list-style: none;
+    margin: 10px 0 0 0;
+    padding: 0;
+}
+header nav ul li {
+    display: inline-block;
+    margin: 0 10px 10px 0;
+}
+header nav a {
+    background: white;
+    border: 1px solid black;
+    cursor: pointer;
+    display: block;
+    padding: 6px;
+}
+
+main {
+    background: white;
+    border: 1px solid;
+    margin: 0;
+    padding: 0 15px;
+}
+
+h1 {
+    border-bottom: 1px solid;
+    line-height: 1.25;
+    margin: 15px 0 0 0;
+}
+
+ul.posts {
+  list-style: none;
+  padding-left: 0;
+}
+ul.posts li a {
+  display: block;
+  margin-bottom: 15px;
+}
+
+h2{ 
+    border-bottom: 1px solid lightgrey;
+    font-size: 18px; 
+    margin: 2rem 0 0; 
+}
+
+h3 {
+  font-size: 16px;
+}
+
+dd {
+  margin-bottom: 10px;
+}
+dt:not(:has(a)) {
+    font-weight: 600;
+}
+
+img{height:auto;max-width:100%;}
+
+blockquote {
+    color: brown;
+    font-style: italic;
+}
+
+figure { margin: 2.5rem auto; }
+figure img { display: block; margin: 0 auto 10px; }
+figcaption { opacity: 0.7; text-align: center; }
+
+pre, p code, li code { font-size: 14px; }
+
+pre {
+  background: #f2f2f2;
+  padding: 6px;
+  overflow: auto;
+}
+pre:has(code.language-diagram) {
+    background: none;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 2rem 0;
+  text-align: left;
+  width: 100%;
+}
+table caption {
+  background: #f2f2f2;
+  padding: 4px;
+}
+table tr {
+  border-bottom: 1px solid;
+}
+table td, table th {
+  padding: 4px;
+}
+
+footer {
+    padding: 0 10px;
+    margin: 1rem 0 2rem;
+}
+
+.footnotes {
+  font-size: 90%;
+  margin-top: 2rem;
+}
+
+.footer-nav h3 {
+    margin-bottom: 0;
+}
+.footer-nav ul {
+    list-style: none;
+    margin-top: 0;
+    padding: 0;
+}
+.footer-nav ul li {
+    display: inline-block;
+    margin-right: 8px;
+}
+
+.w-100 {
+  max-width: 100px;
+}
+
+@media(max-width: 620px) {
+    body {
+        padding: 10px;
+    }
+    header nav ul {
+        margin: 0;
+    }
+    .footer-nav {
+        display: block;
+    }
+}
+
+@media(prefers-color-scheme: dark) {
+    body {
+        background-color: black;
+    }
+    header nav a {
+        border-color: white;
+    }
+    main, header nav a {
+        background: #2d2d2d;
+    }
+    pre {
+        background: black;
+    }
+    blockquote {
+        color: lightgoldenrodyellow;
+    }
+    table caption {
+        background: black;
+    }
+}
+

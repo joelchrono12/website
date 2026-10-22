@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
-dirBuild="/home/chrono/git/joelchrono12.ml/_site"
-dirPosts="/home/chrono/git/joelchrono12.ml/_posts"
-dirDrafts="/home/chrono/git/joelchrono12.ml/_drafts"
+dirBuild="/home/chrono/Documents/git/joelchrono12.ml/_site"
+dirPosts="/home/chrono/Documents/git/joelchrono12.ml/_posts"
+dirDrafts="/home/chrono/Documents/git/joelchrono12.ml/_drafts"
 #100 Days to Offload start date, value formatted as YYYYMMDD
-startDate=20250101
+startDate=20260722
 endDate="$(date -d "$startDate+1 year" "+%Y%m%d")"
 
 prepare() {
