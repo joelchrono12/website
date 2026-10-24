@@ -1,6 +1,7 @@
 ---
 layout: book
 title: "The Stranger"
+header: "The Stranger"
 author: "Albert Camus"
 cover: "/assets/img/books/the-stranger.jpg"
 start: "2022-03-06"

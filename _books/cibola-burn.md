@@ -1,6 +1,7 @@
 ---
 layout: book
 title: "Cibola Burn"
+header: "Cibola Burn"
 author: "James S.A. Corey"
 cover: "/assets/img/books/cibola-burn.jpg"
 start: "2025-03-17"

@@ -1,6 +1,7 @@
 ---
 layout: book
 title: "Dune"
+header: "Dune"
 author: "Frank Herbert"
 cover: "/assets/img/books/dune.jpg"
 start: "2024-03-04"

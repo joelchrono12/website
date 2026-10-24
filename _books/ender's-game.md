@@ -1,6 +1,7 @@
 ---
 layout: book
 title: "Ender's Game"
+header: "Ender's Game"
 author: "Orson Scott Card"
 cover: "/assets/img/books/enders-game.jpg"
 start: "2023-12-06"

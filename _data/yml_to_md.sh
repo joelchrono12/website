@@ -7,5 +7,5 @@ for i in {0..56}; do
 	ending=$(yq '.['$i'].end' books.yml)
 	desc=$(yq '.['$i'].summary' books.yml)
 	echo $filen.md
-	echo -e "---\nlayout: book\ntitle: $title\nauthor: $author\ncover: $cover\nstart: $start\nend: $ending\ndescription: $desc\n---" >> ./test/$filen.md
+	echo -e "---\nlayout: book\ntitle: $title\nheader: $title\nauthor: $author\ncover: $cover\nstart: $start\nend: $ending\ndescription: $desc\n---" >> ./test/$filen.md
 done

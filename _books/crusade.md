@@ -1,6 +1,7 @@
 ---
 layout: book
 title: "Crusade"
+header: "Crusade"
 author: "Andy Clark"
 cover: "/assets/img/books/crusade.jpg"
 start: "2023-01-31"

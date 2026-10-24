@@ -1,10 +1,15 @@
 ---
+title: Book
 layout: default
 ---
+
+<img alt="{{ page.title }}" src="{{ page.cover }}">
+
 <p>Author: {{ page.author}}</a>.</p>
 <p>Started: {{ page.start| date_to_string }}.</p>
-{% if page.progress %}
-<p>Progress<a href="{{ page.progress}}">%</a>.</p>
+{% if page.progress < 100 %}
+<p>Progress: {{ page.progress}}%.</p>
 {% else %}
+<p>Finished: {{ page.end| date_to_string }}.</p>
 {% endif %}
 {{ content }}

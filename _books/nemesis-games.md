@@ -1,6 +1,7 @@
 ---
 layout: book
 title: "Nemesis Games"
+header: "Nemesis Games"
 author: "James S.A. Corey"
 cover: "/assets/img/books/nemesis-games.jpg"
 start: "2025-06-17"

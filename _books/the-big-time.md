@@ -1,6 +1,7 @@
 ---
 layout: book
 title: "The Big Time"
+header: "The Big Time"
 author: "Fritz Leiber"
 cover: "/assets/img/books/the-big-time.jpg"
 start: "2025-05-09"

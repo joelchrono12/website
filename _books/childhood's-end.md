@@ -1,6 +1,7 @@
 ---
 layout: book
 title: "Childhood's End"
+header: "Childhood's End"
 author: "Arthur C. Clarke"
 cover: "/assets/img/books/childhoods-end.jpg"
 start: "2024-01-09"

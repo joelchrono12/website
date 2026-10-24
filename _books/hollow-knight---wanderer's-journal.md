@@ -1,6 +1,7 @@
 ---
 layout: book
 title: "Hollow Knight - Wanderer's Journal"
+header: "Hollow Knight - Wanderer's Journal"
 author: "Ryan Novak, Kari Fry"
 cover: "/assets/img/books/hollow-knight.jpg"
 start: "2025-09-16"

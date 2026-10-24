@@ -1,6 +1,7 @@
 ---
 layout: book
 title: "All These Worlds"
+header: "All These Worlds"
 author: "Dennis E. Taylor"
 cover: "/assets/img/books/all-these-worlds.jpg"
 start: "2021-04-02"

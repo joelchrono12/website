@@ -1,6 +1,7 @@
 ---
 layout: book
 title: "Artificial Condition"
+header: "Artificial Condition"
 author: "Martha Wells"
 cover: "/assets/img/books/artificial-condition.jpg"
 start: "2025-09-05"

@@ -1,6 +1,7 @@
 ---
 layout: book
 title: "The Toll"
+header: "The Toll"
 author: "Neal Shusterman"
 cover: "/assets/img/books/the-toll.jpg"
 start: "2022-03-26"

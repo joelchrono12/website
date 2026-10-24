@@ -1,6 +1,7 @@
 ---
 layout: book
 title: "For We Are Many"
+header: "For We Are Many"
 author: "Dennis E. Taylor"
 cover: "/assets/img/books/for-we-are-many.jpg"
 start: "2021-03-31"

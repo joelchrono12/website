@@ -1,6 +1,7 @@
 ---
 layout: book
 title: "Dracula"
+header: "Dracula"
 author: "Bram Stoker"
 cover: "/assets/img/books/bram-stoker_dracula.jpg"
 start: "2022-03-16"

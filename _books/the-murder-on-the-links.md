@@ -1,6 +1,7 @@
 ---
 layout: book
 title: "The Murder on the Links"
+header: "The Murder on the Links"
 author: "Agatha Christie"
 cover: "/assets/img/books/the-murder-on-the-links.jpg"
 start: "2025-01-02"

@@ -1,6 +1,7 @@
 ---
 layout: book
 title: "Abaddon's Gate"
+header: "Abaddon's Gate"
 author: "James S.A. Corey"
 cover: "/assets/img/books/abaddons-gate.jpg"
 start: "2025-01-04"

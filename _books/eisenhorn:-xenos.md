@@ -1,6 +1,7 @@
 ---
 layout: book
 title: "Eisenhorn: Xenos"
+header: "Eisenhorn: Xenos"
 author: "Dan Abnett"
 cover: "/assets/img/books/eisenhorn-xenos.jpg"
 start: "2022-04-1"

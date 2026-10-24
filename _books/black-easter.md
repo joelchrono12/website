@@ -1,6 +1,7 @@
 ---
 layout: book
 title: "Black Easter"
+header: "Black Easter"
 author: "James Blish"
 cover: "/assets/img/books/black-easter.jpg"
 start: "2024-10-03"

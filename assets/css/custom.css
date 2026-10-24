@@ -9,11 +9,11 @@
     /*--mono-font: "Ubuntu Mono","mononoki","IBM Plex Mono","Roboto Mono","Fira Code","Overpass Mono", Monaco,"Droid Sans Mono",monospace;*/
     --mono-font: "IBM Plex Mono", monospace;
     /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
-    --base-fontsize: 1.10rem;
+    --base-fontsize: 1.15rem;
     /* Major third scale progression - see https://type-scale.com/ */
-    --header-scale: 1.1;
+    --header-scale: 1.12;
     /* Line height is set to the "Golden ratio" for optimal legibility */
-    --line-height: 1.35;
+    --line-height: 1.55;
     /*This is my dark themed color scheme*/
     --accent-bg: #f0f0f0;
     --accent-light: #7aa2f7;
@@ -743,3 +743,30 @@ progress::-moz-progress-bar {
 	background: var(--border);
 }
 
+.responsive-grid{
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1rem;
+	justify-content: space-evenly;
+}
+
+.media-container{
+	display: inline-flex;
+	flex-direction: column;
+	width: 10rem;
+	align-items: center;
+	text-align: center;
+	gap: .5rem;
+}
+
+.media-art{
+	overflow: hidden;
+}
+.media-art img, .media-art{
+	height: 220px;
+	width: 130px;
+	transition: all .3s ease;
+}
+.media-art img:hover{
+	transform: scale(1.05);
+}

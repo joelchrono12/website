@@ -1,6 +1,7 @@
 ---
 layout: book
 title: "All Systems Red"
+header: "All Systems Red"
 author: "Martha Wells"
 cover: "/assets/img/books/all-systems-red.jpg"
 start: "2025-08-28"

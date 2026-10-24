@@ -1,6 +1,7 @@
 ---
 layout: book
 title: "The Space Merchants"
+header: "The Space Merchants"
 author: "C.M. Kornbluth, Frederik Pohl"
 cover: "/assets/img/books/the-space-merchants.jpg"
 start: "2025-02-17"

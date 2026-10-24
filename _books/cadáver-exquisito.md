@@ -1,6 +1,7 @@
 ---
 layout: book
 title: "Cadáver Exquisito"
+header: "Cadáver Exquisito"
 author: "Agustina Bazterrica"
 cover: "/assets/img/books/tender-is-the-flesh.jpg"
 start: "2024-03-25"

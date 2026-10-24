@@ -1,6 +1,7 @@
 ---
 layout: book
 title: "Parasite Eve"
+header: "Parasite Eve"
 author: "Hideaki Sena"
 cover: "/assets/img/books/parasite-eve.jpg"
 start: "2019-12-20"
