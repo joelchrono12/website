@@ -5,6 +5,7 @@ description: A log of the books I've read divided by year. Mostly filled with Sc
 redirect_from: /more/booklog/
 redirect_from: /reading/
 redirect_from: /booklog/
+redirect_from: /books/
 permalink: /bookshelf/
 layout: default
 ---

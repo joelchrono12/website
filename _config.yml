@@ -32,7 +32,7 @@ collections:
     output: true
   books:
     output: true
-    permalink: /books/:title/
+    permalink: /bookshelf/:title/
   games:
     output: true
 
