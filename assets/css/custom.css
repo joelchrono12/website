@@ -744,18 +744,16 @@ progress::-moz-progress-bar {
 }
 
 .responsive-grid{
-	display: flex;
-	flex-wrap: wrap;
+	display: grid;
 	gap: 1rem;
+	grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
 	justify-content: space-evenly;
 }
 
 .media-container{
-	display: inline-flex;
+	display: flex;
 	flex-direction: column;
-	width: 10rem;
 	align-items: center;
-	text-align: center;
 	gap: .5rem;
 }
 

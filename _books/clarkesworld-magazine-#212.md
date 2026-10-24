@@ -5,7 +5,7 @@ header: "Clarkesworld Magazine #212"
 author: "Neil Clarke"
 cover: "/assets/img/books/clarkesworld-212.jpg"
 start: "2026-10-12"
-end: "2026-10-12"
+end: "2026-11-20"
 progress: 7
 description: null
 ---
