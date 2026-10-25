@@ -1,15 +1,20 @@
 ---
-title: Book
 layout: default
 ---
 
-<img alt="{{ page.title }}" src="{{ page.cover }}">
+<div class="book-card" style="display: flex; flex-direction: row; gap: 1rem;">
+	<img alt="{{ page.title }}" src="{{ page.cover }}">
+	<div class="book-details">
+		<p>Author: {{ page.author}}</a>.</p>
+		<p>Started: {{ page.start| date_to_string }}.</p>
+		{% if page.progress < 100 %}
+		<p>Progress: {{ page.progress}}%.</p>
+		<progress value="{{ page.progress }}" max="100">
+		{% else %}
+		<p>Finished: {{ page.end| date_to_string }}.</p>
+		{% endif %}
+	</div>
+</div>
 
-<p>Author: {{ page.author}}</a>.</p>
-<p>Started: {{ page.start| date_to_string }}.</p>
-{% if page.progress < 100 %}
-<p>Progress: {{ page.progress}}%.</p>
-{% else %}
-<p>Finished: {{ page.end| date_to_string }}.</p>
-{% endif %}
+
 {{ content }}
