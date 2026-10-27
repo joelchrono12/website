@@ -8,7 +8,7 @@ layout: post
 date: 2026-10-27 10:00:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117513841833455011
 image: "assets/img/blogs/2026-10-27-banner.webp"
 ---
 
@@ -66,11 +66,11 @@ I AM GOING THROUGH THE CLOUDS
 
 ***
 
-The pilot said how many feet we would go up, something like thirty thousand or more
+The pilot said how many feet we would go up, something like thirty thousand or more.
 
-I didn't pay attention 
+I didn't pay attention.
 
-But the scale is beyond my comprehension
+But the scale is beyond my comprehension.
 
 I can see the whole city below me!
 
