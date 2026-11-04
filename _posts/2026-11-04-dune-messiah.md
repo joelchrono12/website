@@ -8,7 +8,7 @@ layout: post
 date: 2026-11-04 15:30:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117560604648417569
 ---
 
 With Denis Villeneuve's upcoming film that shall put an end to his *Dune* trilogy, I have been meaning to read *Dune Messiah* for quite a while. I was planning to read it with a friend but *I was utterly forgotten and she read it without me*---don't worry we are good lol.
