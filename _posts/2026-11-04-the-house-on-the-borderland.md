@@ -8,7 +8,7 @@ layout: post
 date: 2026-11-04 10:30:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117559395098867982
 ---
 
 This was my second book of the month of Octoer (even if I actually started it earlier than *Left Hand of Darkness*) and the spookiest of the three. It's all about cosmic horror, existential dread, fear of the unknown and all of that mumbo jumbo that is often attributed to H.P. Lovecraft but well, it actually comes from here!
