@@ -2,13 +2,13 @@
 title: The Left Hand of Darkness
 header: The Left Hand of Darkness
 description: My review for the first book I read from Ursula K. Le Guin! Featuring the frozen world of Gethen and a unique society with no gender norms.
-tags: weeknotes
+tags: book review
 permalink: /blog/the-left-hand-of-darkness/
 layout: post
 date: 2026-11-04 08:00:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117558843692261686
 ---
 
 This is the first novel I read from Ursula K. Le Guin, and it did not dissapoint.
