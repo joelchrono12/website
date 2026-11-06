@@ -8,7 +8,7 @@ layout: post
 date: 2026-11-06 10:50:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117570817542954469
 ---
 
 I saw some bloggers and friends participating on this prompt/challege, which---of course---originates from [Robert Birming's](https://robertbirming.com/knowember/) mind. Even though I'm one of the ones who feels like the about page I have covers pretty much everything, I decided to contribute with my own entry anyway.
