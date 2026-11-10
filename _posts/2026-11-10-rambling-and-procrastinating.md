@@ -2,13 +2,13 @@
 title: Rambling and procrastinating
 header: Rambling and procrastinating 
 description: I write about my physical health, my bad habits, flossing my teeth, random life stuff, you know?
-tags: weeknotes
+tags: personal life 
 permalink: /blog/rambling-and-procrastinating/
 layout: post
 date: 2026-11-10 15:50:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117594402626466449
 ---
 
 Yesterday I was due for a medical checkup at work! They do this kind of thing yearly and it only takes like twenty minutes or so, but I had ignored the couple emails for people pending to take it, until they reached out directly on Teams.
