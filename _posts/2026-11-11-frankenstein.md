@@ -8,7 +8,7 @@ layout: post
 date: 2026-11-11 12:40:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117599302193698989
 ---
 
 Back in my younger days, my high school would hold yearly book reading events. The choice one day was *Frankenstein*, by Mary Shelley.
