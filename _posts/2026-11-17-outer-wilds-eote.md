@@ -8,7 +8,7 @@ layout: post
 date: 2026-11-17 17:10:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117634350518379225
 image: "assets/img/blogs/2026-11-17-ow.webp"
 ---
 
