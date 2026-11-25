@@ -6,9 +6,10 @@ tags: game review
 permalink: /blog/castlevania-sotn/
 layout: post
 date: 2026-11-25 8:00:00 -0600
+updated: 2026-11-25 9:40:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117677601085612429
 image: "assets/img/blogs/2026-11-25-cover.webp"
 ---
 
