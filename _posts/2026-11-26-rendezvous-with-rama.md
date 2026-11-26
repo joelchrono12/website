@@ -8,7 +8,7 @@ layout: post
 date: 2026-11-26 17:10:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117685285360204442
 ---
 
 Oh right I finished another book now. I am actually impressed by the amount of books I've read so far this year, and rather quickly too!
@@ -35,6 +35,10 @@ You really are here for the plot and the concepts. Clarke does a lot of very int
 
 When it comes to outdated elements... there are some for sure. There's a few sentences from Norton where he's like "women's bodies are too distracting in zero gravity". Nonetheless, there are some heroic moments performed by women as well, so that's cool. I always expect something like this to happen in old sci-fi books (unless they are by Mary Shelley or Le Guin, I guess) so it didn't catch me off-guard.
 
-The chapters of this book are extremely short, less than ten pages each. I genuinely flew past them, reading both digitally and physically as it was convenient. I think this was a rather comfy read, even if the descriptions were a little overboard sometimes. I have to say I was *slightly* dissapointed by the finale when compared to what Clarke accomplished on [Childhood's End](/blog/childhoods-end/), which was a much later work. This is not as grandiose, but in a way, that's kind of what the novel is going for. It's definitely worth a read and I'm kinda curious about the rest of the Rama series. I have heard very mixed things about it though, and I know Clarke didn't write them himself, so yeah, I'm more than happy with the mystery we get on this one.
+The chapters of this book are extremely short, less than ten pages each. I genuinely flew past them, reading both digitally and physically as it was convenient. I think this was a rather comfy read, even if the descriptions were a little overboard sometimes. 
+
+I have to say that you shouldn't expect some sort of epic finale here. When compared to what Clarke did on [Childhood's End](/blog/childhoods-end/) and some other mind-bending trippy endings, this is not as grandiose. Don't get me wrong though, that's what the novel is going for, and it absolutely nails it. I could do nothing but read and accept what I was given.
+
+It's definitely worth a read and I'm kinda curious about the rest of the Rama series. I have heard very mixed things about it though, and I know Clarke didn't write them himself, so yeah, I'm more than happy with the mystery we get on this one.
 
 This is day 73 of [#100DaysToOffload](https://100DaysToOffload.com)
